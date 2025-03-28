@@ -1,0 +1,1 @@
+{"version":3,"file":"UserName.js","sourceRoot":"","sources":["../../../../src/User/Domain/UserName.ts"],"names":[],"mappings":";;;AAAA,sEAAmE;AAEnE,MAAa,QAAQ;IAGjB,YAAY,KAAa;QACrB,IAAI,KAAK,CAAC,MAAM,GAAG,CAAC,EAAE,CAAC;YACnB,MAAM,IAAI,qCAAiB,CAAC,6CAA6C,CAAC,CAAC;QAC/E,CAAC;QACD,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CACJ;AATD,4BASC"}

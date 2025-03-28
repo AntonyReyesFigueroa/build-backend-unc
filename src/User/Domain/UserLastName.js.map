@@ -1,0 +1,1 @@
+{"version":3,"file":"UserLastName.js","sourceRoot":"","sources":["../../../../src/User/Domain/UserLastName.ts"],"names":[],"mappings":";;;AAAA,sEAAmE;AAEnE,MAAa,YAAY;IAGrB,YAAY,KAAa;QACrB,IAAI,KAAK,CAAC,MAAM,GAAG,CAAC,EAAE,CAAC;YACnB,MAAM,IAAI,qCAAiB,CAAC,+CAA+C,CAAC,CAAC;QACjF,CAAC;QACD,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACvB,CAAC;CACJ;AATD,oCASC"}
