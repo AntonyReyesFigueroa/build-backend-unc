@@ -1,0 +1,2 @@
+✅ Variables de entorno cargadas correctamente:
+Servidor corriendo en http://localhost:\\.\pipe\6727be87-ca98-4e9e-b519-bde5e9e4e9eb

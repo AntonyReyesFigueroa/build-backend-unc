@@ -1,0 +1,7 @@
+(node:3028) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+InvalidCredentialsError: El correo electrónico no está registrado.
+    at UserLogin.<anonymous> (C:\Users\areye\Desktop\Practicas UNC\backend\build\src\User\Application\Auth\UserLogin\UserLogin.js:24:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\areye\Desktop\Practicas UNC\backend\build\src\User\Application\Auth\UserLogin\UserLogin.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

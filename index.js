@@ -12,7 +12,7 @@ const InvalidCredentialsError_1 = require("./src/User/Domain/Exceptions/InvalidC
 const UserNotFoundError_1 = require("./src/User/Domain/Exceptions/UserNotFoundError");
 const app = (0, express_1.default)();
 app.use(express_1.default.json());
-app.use((0, cors_1.default)({ origin: env_1.env.FRONTEND_URL }));
+app.use((0, cors_1.default)({ origin: "*" }));
 app.use(ExpressUserRouter_1.ExpressUserRouter);
 app.use((err, _req, res, _next) => {
     console.error(err); // Registrar el error en la consola para depuración

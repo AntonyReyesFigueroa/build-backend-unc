@@ -1,0 +1,14 @@
+✅ Variables de entorno cargadas correctamente:
+Servidor corriendo en http://localhost:\\.\pipe\1e153384-073f-45ed-a23c-327dfe5f4eff
+✅ Base de datos 'unidad_servicios_generales' verificada o creada.
+✅ Base de datos 'unidad_servicios_generales' verificada o creada.
+✅ Base de datos 'unidad_servicios_generales' verificada o creada.
+✅ Conectado a la base de datos 'unidad_servicios_generales'.
+✅ Conectado a la base de datos 'unidad_servicios_generales'.
+✅ Conectado a la base de datos 'unidad_servicios_generales'.
+✅ Tabla '[user]' verificada o creada.
+✅ Tabla '[user]' verificada o creada.
+✅ Tabla '[user]' verificada o creada.
+✅ La tabla '[user]' ya contiene datos, no se insertó el usuario por defecto.
+✅ La tabla '[user]' ya contiene datos, no se insertó el usuario por defecto.
+✅ La tabla '[user]' ya contiene datos, no se insertó el usuario por defecto.
